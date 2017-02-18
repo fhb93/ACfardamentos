@@ -13,8 +13,8 @@ header {
 	/*margin-top: 0;*/
 	/*padding-top: 0;*/
 	width: 100%;
-	height: 15%;
-	max-height: 15%;
+	height: 20%;
+	max-height: 20%;
 	display: inline;
 }
 
@@ -42,21 +42,27 @@ h1, h2 {
 
 ul {
 	list-style-type: none;
+
 }
 
 .menu-bar {
+	/*float: left;*/
 	background-color: rgb(255, 173, 76);
 	font-weight: bold;
 	text-transform: uppercase;
-
+	text-shadow: 2px 2px #333333;
+	/*float: left;*/
+	margin-top: 0;
 	margin-right: 10px;
+	margin-left: 0;
 	width: 15%;
+	/*display: inline-grid;*/
 }
 
-/*.menu-bar li ul {
+.menu-bar li ul {
 	display: none;
 }
-*/
+
 .menu-bar li:hover ul {
 	display: block;
 }
@@ -72,7 +78,7 @@ ul {
 }
 
 .menu-bar a {
-	color: #333333;
+	color: white;
 	text-decoration: none;
 }
 
@@ -107,6 +113,31 @@ ul div {
 	display: inline;
 	margin-right: 20%;
 }
+
+#textSobre {
+	/*text-align: center;*/
+	font-family: normal, sans-serif;
+	position: absolute;
+	float: left;
+	display: inline;
+} 
+
+.h1Sobre {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif, italic;
+ 	/*text-align: center;*/
+	padding-right: 20%;
+	text-shadow: 2px 2px #333333;
+	color: rgb(66, 189, 193);;
+}
+
+.news {
+	/*text-align: center;*/
+  	font-size: 48px;
+  	color: #eeeeee;
+  /*color: inherit;*/
+  /*background-color: #eeeeee;*/
+}
+
 
 /*.panel-footer {
   padding: 10px 15px;

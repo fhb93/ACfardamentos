@@ -4,62 +4,50 @@
 		<title>AC Fardamentos</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/styles.css">
+		
 		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/styles.css">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>
-		<header>
-			<img src="img/logo-AC-Big.png" alt="Logo da AC Fardamentos">
-			<br>
-			<br>
-			<h1>Fardamento Escolar e Camisas Promocionais</h1>
-		</header>
-		<section class="menu-bar">
-				<nav>
-					<ul>
-						<li><a href="#">Sessão 1</a></li>
-						<li><a href="#">Sessão 2</a>
-
-							 <li><a href="#">Manga curta</a></li>	
-						<li><a href="#">Manga comprida</a></li>
-						<li><a href="#">Camisa social</a></li>
-						<li><a href="#">Camisa casual</a></li>
-
-						</li>
-						<!-- <li><a href="#">Calças</a></li> -->
-						<!-- <li><a href="#">Saias</a></li> -->
-						<!-- <li><a href="#">Vestidos</a></li> -->
-						<!-- <li><a href="#">Sapatos</a></li> -->
-						<!-- <li><a href="#">Bolsas e Carteiras</a></li> -->
-						<!-- <li><a href="#">Acessórios</a></li> -->
-					</ul>
-				</nav>
-			</section>
-		<br><br><br><br><br><br><br>
-		<footer>
-			<ul>
-				<div>
-					<li>
-					E-mail:<br>acfardamentos@yahoo.com.br
+	<div>
+	<?php
+		include("header.php");
+	?>
+	<?php 
+		include("news.php");
+	?>
+	</div>
+	<section class="menu-bar">
+			<nav>
+				<ul>
+					<li><a href="index.php">Página Principal</a>
+					<li><a href="sobre.php">Sobre a AC</a></li>
+				 	<li><a href="#">Fardas</a>
+				 		<ul>
+				 			<li><a href="#">Calças</a></li>
+							<li><a href="#">Calças de Brim</a></li>
+							<li><a href="#">Calção de Elastano</a></li>
+							<li><a href="#">Calção Tactel</a></li>
+				 			<li><a href="#">Calção de Brim</a></li>
+				 			<li><a href="#">Camisetas</a></li>
+				 			<li><a href="#">Gola Careca</a></li>
+				 			<li><a href="#">Gola Polo</a></li>
+				 		</ul>
+				 	</li> 	
+					<li><a href="#">Camisetas</a>
+						<ul>
+							<li><a href="#">Camisetas Brancas</a></li>
+							<li><a href="#">Camisetas Pretas</a></li>
+							<li><a href="#">Outras Cores</a></li>
+						</ul>
 					</li>
-					<li>
-						<!-- <span class="glyphicon glyphicon-map-marker" aria-hidden="false"></span> -->
-					Endereço: Alamenda Ana Elisa, 335 - Quadra 02 - Cidade 2000 - Fortaleza - Ceará - CEP: 60.190-110
-					</li>
-				</div>
-				<div>	
-					<li>Telefone 1:<br>
-						<!-- <span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> -->
-						3249-0668
-					</li>
-					<li> Telefone 2:<br>
-						<!-- <span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> -->
-						3032-0654
-					</li>
-				</div>
-			</ul>
-			<h4>Desenvolvido por: Felipe Holanda Bezerra & Pedro Victor Cunha Bezerra</h4>
-		</footer>
+				</ul>
+			</nav>
+	</section>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<?php
+		include("footer.php");
+	?>
 	</body>
 </html>
