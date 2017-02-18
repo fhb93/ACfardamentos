@@ -1,13 +1,13 @@
 header {	
 	position: relative;
 	text-align: left;
-	/*background-color:rgb(255, 173, 76);*/
+	/*background-color:rgb(255, 129, 93);*/
 
-    background: rgb(255, 173, 76); /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(rgb(255, 173, 76), white); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(rgb(255, 173, 76), white); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(rgb(255, 173, 76), white); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(rgb(255, 173, 76), white); /* Standard syntax */
+    background: rgb(255, 129, 93); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgb(255, 129, 93);, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(255, 129, 93), white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(255, 129, 93), white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(255, 129, 93), white); /* Standard syntax */
 
 	/*border-top: 0;*/
 	/*margin-top: 0;*/
@@ -47,7 +47,8 @@ ul {
 
 .menu-bar {
 	/*float: left;*/
-	background-color: rgb(255, 173, 76);
+	/*background-color: rgb(255, 129, 93);	*/
+	background-color: rgb(255, 129, 93);
 	font-weight: bold;
 	text-transform: uppercase;
 	text-shadow: 2px 2px #333333;
@@ -68,7 +69,8 @@ ul {
 }
 
 .menu-bar ul li {
-	background-color: rgb(255, 173, 76);
+	/*background-color: rgb(255, 129, 93);*/
+		background-color: rgb(255, 129, 93);
 }
 
 .menu-bar li {
@@ -86,12 +88,12 @@ footer {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	display: inline;
 	/*background-color: rgb(255, 144, 80);*/
-	/*background-color:rgb(255, 173, 76);*/
-	background: white /*rgb(255, 173, 76); /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(white, rgb(255, 173, 76)); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(white, rgb(255, 173, 76)); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(white, rgb(255, 173, 76)); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(white, rgb(255, 173, 76)); /* Standard syntax */
+	background-color:rgb(255, 129, 93);
+	background: white /*rgb(255, 129, 93); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, rgb(255, 129, 93)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, rgb(255, 129, 93)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, rgb(255, 129, 93)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, rgb(255, 129, 93)); /* Standard syntax */
 
 /*background-color: rgb(99, 110, 94);*/
 	clear: both; 
@@ -127,7 +129,7 @@ ul div {
  	/*text-align: center;*/
 	padding-right: 20%;
 	text-shadow: 2px 2px #333333;
-	color: rgb(66, 189, 193);;
+	color: rgb(66, 189, 193);
 }
 
 .news {
@@ -136,6 +138,12 @@ ul div {
   	color: #eeeeee;
   /*color: inherit;*/
   /*background-color: #eeeeee;*/
+}
+
+.text {
+	font-weight: bold;
+	/*color: blue;*/
+	/*text-shadow: 2px 2px #333333;*/
 }
 
 

@@ -17,43 +17,21 @@
 				<div id="textSobre">
 					<h1 class="h1Sobre">Sobre a AC Fardamentos</h1>
 					<div class="panel-body">
-					Aqui vai um curto texto sobre nossa História<br>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					<br>
-					Aqui vai um curto texto sobre nossa História<br>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						<div class="text">
+						<br><br>
+							Um breve histórico:<br>
+							Há 21<!--  <?php date("y") - 1994; ?> --> anos, uma mãe dedicada e sonhadora decidiu investir em uma antiga idéia: Oferecer qualidade a preço justo no desafiador mercado dos fardamentos. Sua antiga marca Pethigo, foi uma dos pioneiros empreendimentos no setor, na região da Cidade 2000. Após anos de esforços, a já consolidade Pethigo teve seu nome modificado para AC Fardamentos, destacando o carro-chefe da companhia, fardas escolares de qualidade e acessíveis.
+							<br>
+							Hoje, a AC Fardamentos se destaca como uma companhia em ascensão, tendo fornecido fardamentos para vários dos maiores colégios da cidade de Fortaleza. Venha conferir nossos produtos, fardas e camisetas promocionais, cuja qualidade é garantida a um custo que cabe no seu bolso!
+							<br>
+						</div>
 				 	</div>
 				</div>
 			</div>
 		</section>
-		<section class="menu-bar">
-				<nav>
-					<ul>
-						<li><a href="index.php">Página Principal</a>
-						<li><a href="#">Sobre a AC</a></li>
-						<li><a href="#">Manga curta</a></li>	
-						<li><a href="#">Manga comprida</a></li>
-						<li><a href="#">Camisa social</a></li>
-						<li><a href="#">Camisa casual</a></li>
-						<!-- <li><a href="#">Calças</a></li> -->
-						<!-- <li><a href="#">Saias</a></li> -->
-						<!-- <li><a href="#">Vestidos</a></li> -->
-						<!-- <li><a href="#">Sapatos</a></li> -->
-						<!-- <li><a href="#">Bolsas e Carteiras</a></li> -->
-						<!-- <li><a href="#">Acessórios</a></li> -->
-					</ul>
-				</nav>
-			</section>
+		<?php 
+			include("menu-bar.php");
+		?>
 			<br><br><br><br><br><br><br>
 	<?php
 		include("footer.php");
