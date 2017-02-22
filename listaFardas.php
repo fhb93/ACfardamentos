@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/news.css">
+		<link rel="stylesheet" href="css/listas.css">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>
@@ -18,11 +19,14 @@
 				include("menu-bar.php");
 			?>
 			<div class="container">
-				<?php 
-					include("news.php");
-				?>	
+				<h1 class="h1Sobre">Lista de Fardas</h1>
+				<ul>
+					<li><a href="produto.php">Farda Escolar Farias Brito</a></li>
+					<li><a href="produto.php">Farda Escolar Kennedy</a></li>
+					<li><a href="produto.php">Farda Escolar Shalom</a></li>
+				</ul>	
 			</div>
-
+			<br><br>
 			<?php
 				include("footer.php");
 			?>

@@ -16,11 +16,11 @@
 				<div>	
 					<li>Telefone 1:<br>
 						<!-- <span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> -->
-						3249-0668
+						(85) 3249-0668
 					</li>
 					<li> Telefone 2:<br>
 						<!-- <span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> -->
-						3032-0654
+						(85) 3032-0654
 					</li>
 				</div>
 			</ul>

@@ -19,10 +19,12 @@ header {
 }
 
 header img {
-	position: relative;
+	position: absolute;
 	width: 15%;
 	max-width: 15%;
-	/*display: inline;*/
+	display: block;
+
+	margin-left: 0;
 	float: left;
 }
 
@@ -47,24 +49,30 @@ ul {
 
 .menu-bar {
 	/*float: left;*/
-	/*background-color: rgb(255, 129, 93);	*/
+	position: absolute;
+	float: left;
+	display: inline-block;
 	background-color: rgb(255, 129, 93);
 	font-weight: bold;
 	text-transform: uppercase;
 	text-shadow: 2px 2px #333333;
 	/*float: left;*/
-	margin-top: 0;
-	margin-right: 10px;
+	/*margin-top: 6.5%;*/
+	/*margin-right: 10px;*/
 	margin-left: 0;
+	margin-top: 6.5%;
+	/*padding-left: 0;*/
 	width: 15%;
 	/*display: inline-grid;*/
 }
 
 .menu-bar li ul {
 	display: none;
+	/*transition: 0.8s ease-in;*/
 }
 
 .menu-bar li:hover ul {
+	/*transition: 0.8s ease-in;*/
 	display: block;
 }
 
@@ -76,6 +84,7 @@ ul {
 .menu-bar li {
 	background-color: white;
 	margin-bottom: 1px;
+	margin-top: 5px;
 	padding: 5px 10px;
 }
 
@@ -98,9 +107,10 @@ footer {
 /*background-color: rgb(99, 110, 94);*/
 	clear: both; 
 	padding: 20px 20px;
+	margin-top: 8%;
 	height: 180px;
 	width: 100%;
-	bottom: 0px;
+	margin-bottom: 0;
 }
 
 h4 {
@@ -119,17 +129,35 @@ ul div {
 #textSobre {
 	/*text-align: center;*/
 	font-family: normal, sans-serif;
-	position: absolute;
+	position: relative;
 	float: left;
-	display: inline;
+	text-align: justify;
+	display: inline-block;
+	font-weight: bold;
+	margin-left: 17%;
+	margin-right: 3%;
 } 
 
+#text {
+	font-weight: bold;
+	margin-left: 1%;
+}
+
 .h1Sobre {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif, italic;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
  	/*text-align: center;*/
 	padding-right: 20%;
 	text-shadow: 2px 2px #333333;
 	color: rgb(66, 189, 193);
+}
+
+
+.h2Sobre {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+ 	/*text-align: center;*/
+	padding-right: 20%;
+	text-shadow: 2px 2px black;
+	color: rgb(255, 129, 93);
 }
 
 .news {
@@ -140,11 +168,7 @@ ul div {
   /*background-color: #eeeeee;*/
 }
 
-.text {
-	font-weight: bold;
-	/*color: blue;*/
-	/*text-shadow: 2px 2px #333333;*/
-}
+
 
 
 /*.panel-footer {

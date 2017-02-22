@@ -1,0 +1,33 @@
+.container ul {
+	margin-top: 5%;
+}
+
+.container li ul {
+	display: none;
+}
+
+.container li:hover ul {
+	display: block;
+}
+
+.container ul li {
+	/*background-color: rgb(255, 129, 93);*/
+		/*background-color: rgb(255, 129, 93);*/
+}
+
+.container li {
+	list-style: square;
+	margin-left: 15%;
+	background-color: white;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	font-size: 18pt;
+	font-weight: bold;
+	text-shadow: 1px 1px grey;
+	padding: 5px 10px;
+}
+
+.container li a {
+	color: rgb(66, 189, 193);
+	text-decoration: none;
+}

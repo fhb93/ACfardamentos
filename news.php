@@ -9,30 +9,26 @@
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>
-		<div  id="textSobre">
-			<h1 class="h1Sobre">Novidades</h1>
+		<div  id="text">
+			<h1 class="h1Sobre">Confira nossos produtos</h1>
+			<h2 class="h2Sobre">Para informações sobre preços, contate-nos</h2>
 			<div class="roupas">
+				<br>
 				<table>
 					<thead>
 						<tr>
-							<th>Camiseta</th>
-							<th>Farda</th>
-							<th>Farda</th>
-							<th>Camiseta</th>
-							<th>Camiseta</th>
+							<th>Fardas Escolares</th>
+							<th>Camisetas Promocionais</th>
+							<th>Roupas Profissionais</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
-							<td><img src="img/produtos/foto1.jpg" alt="Foto de Camiseta Branca"><legend>Camisetas Brancas</legend></td>
-							<td><img src="img/produtos/foto3.jpg" alt="Foto de Camiseta Branca"><legend>Farda Colégio 7 de Setembro</legend></td>
-							<td><img src="img/produtos/foto3.jpg" alt="Foto de Camiseta Branca"><legend>Farda Colégio Espaço Aberto</legend></td>
-							<td><img src="img/produtos/foto4.jpg" alt="Foto de Camiseta Preta"><legend>Camisetas Pretas</legend></td>
-							<td><img src="img/produtos/foto2.jpg" alt="Foto de Camiseta de Outras Cores"><legend>Camisetas de Outras Cores</legend></td>
+							<td><a href="listaFardas.php"><img src="img/produtos/fariasbrito1.jpg" alt="Foto de Camiseta Branca"><legend>Fardas de todos<br>os tamanhos e tecidos</legend></a></td>
+							<td><img src="img/produtos/foto4.jpg" alt="Foto de Camiseta Branca"><legend>Camisetas especiais,<br>temas diversos</legend></td>
+							<td><img src="img/produtos/foto2.jpg" alt="Foto de Camiseta Branca"><legend>Fardamentos profissionais<br>para empresas</legend></td>
 						</tr>
-
 					</tbody>
-
 				</table>
 			</div>
 		</div>
