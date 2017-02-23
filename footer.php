@@ -1,9 +1,10 @@
 <html>
 	<head>
+	 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 	</head>
 	<body>
 		<footer>
-			<ul>
+			<ul id="ul-footer">
 				<div>
 					<li>
 					E-mail:<br>acfardamentos@yahoo.com.br

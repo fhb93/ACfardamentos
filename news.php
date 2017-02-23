@@ -11,7 +11,7 @@
 	<body>
 		<div  id="text">
 			<h1 class="h1Sobre">Confira nossos produtos</h1>
-			<h2 class="h2Sobre">Para informações sobre preços, contate-nos</h2>
+			<h2 class="h2Sobre">Para mais informações e preços, contate-nos</h2>
 			<div class="roupas">
 				<br>
 				<table>

@@ -14,7 +14,7 @@
 				<ul>
 					<li><a href="index.php">Página Principal</a></li>
 					<li><a href="sobre.php">Sobre a AC</a></li>
-				 	<li><a href="#">Fardas</a>
+				 	<li><a href="listaFardas.php">Fardas</a>
 				 		<ul>
 				 			<li><a href="#">Calças</a></li>
 							<li><a href="#">Calças de Brim</a></li>
