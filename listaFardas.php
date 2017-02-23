@@ -20,13 +20,15 @@
 			?>
 			<div class="container">
 				<h1 class="h1Sobre">Lista de Fardas por Colégio</h1>
-				<ul id="colegios">
-					<li><a href="ari.php" method="get">Farda Escolar Ari de Sá</a></li>
-					<li><a href="farias.php" method="get">Farda Escolar Farias Brito</a></li>
-					<li><a href="kennedy.php" method="get">Farda Escolar Kennedy</a></li>
-					<li><a href="outubro.php" method="get">Farda Escolar 12 de Outubro</a></li>
-					<li><a href="shalom.php" method="get">Farda Escolar Shalom</a></li>
-				</ul>	
+				<nav>
+					<ul id="colegios">
+						<li><a href="ari.php"">Farda Escolar Ari de Sá</a></li>
+						<li><a href="farias.php">Farda Escolar Farias Brito</a></li>
+						<li><a href="kennedy.php">Farda Escolar Kennedy</a></li>
+						<li><a href="outubro.php">Farda Escolar 12 de Outubro</a></li>
+						<li><a href="shalom.php">Farda Escolar Shalom</a></li>
+					</ul>
+				</nav>	
 			</div>
 			<br><br>
 			<?php

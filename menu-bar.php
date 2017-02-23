@@ -14,25 +14,27 @@
 				<ul>
 					<li><a href="index.php">Página Principal</a></li>
 					<li><a href="sobre.php">Sobre a AC</a></li>
-				 	<li><a href="listaFardas.php">Fardas</a>
-				 		<ul>
-				 			<li><a href="#">Calças</a></li>
-							<li><a href="#">Calças de Brim</a></li>
-							<li><a href="#">Calção de Elastano</a></li>
-							<li><a href="#">Calção Tactel</a></li>
-				 			<li><a href="#">Calção de Brim</a></li>
-				 			<li><a href="#">Camisetas</a></li>
-				 			<li><a href="#">Gola Careca</a></li>
-				 			<li><a href="#">Gola Polo</a></li>
-				 		</ul>
-				 	</li> 	
-					<li><a href="#">Camisetas</a>
-						<ul>
-							<li><a href="#">Camisetas Brancas</a></li>
-							<li><a href="#">Camisetas Pretas</a></li>
-							<li><a href="#">Outras Cores</a></li>
-						</ul>
-					</li>
+					<!-- <div id="ul-nav-fardas-camisetas"> -->
+					 	<li><a href="listaFardas.php">Fardas</a>
+					 		<ul>
+					 			<li><a href="#">Calças</a></li>
+								<li><a href="#">Calças de Brim</a></li>
+								<li><a href="#">Calção de Elastano</a></li>
+								<li><a href="#">Calção Tactel</a></li>
+					 			<li><a href="#">Calção de Brim</a></li>
+					 			<li><a href="#">Camisetas</a></li>
+					 			<li><a href="#">Gola Careca</a></li>
+					 			<li><a href="#">Gola Polo</a></li>
+					 		</ul>
+					 	</li> 	
+						<li><a href="#">Camisetas</a>
+							<ul>
+								<li><a href="#">Camisetas Brancas</a></li>
+								<li><a href="#">Camisetas Pretas</a></li>
+								<li><a href="#">Outras Cores</a></li>
+							</ul>
+						</li>
+					<!-- </div> -->
 				</ul>
 			</nav>
 		</section>
