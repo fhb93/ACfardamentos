@@ -3,6 +3,7 @@
 	<head>
 		<title>AC Fardamentos</title>
 		<meta charset="utf-8">
+		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">

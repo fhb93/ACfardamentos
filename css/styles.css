@@ -28,6 +28,11 @@ header img {
 	float: left;
 }
 
+header h1 {
+	font-family: 'Lobster', cursive;
+	color: white;
+}
+
 body {
 	color: #f5f5f5;
 	/*font-family: 'Sahitya', serif;*/
@@ -36,10 +41,11 @@ body {
 h1, h2 {
 	/*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
 	/*font-family: 'Sahitya',  serif;*/
+	font-family: 'Lobster', cursive;
 	text-align: center;
 	padding-left: 15%;
 	text-shadow: 2px 2px #333333;
-	color: #ffffff;
+	color: white;
 }
 
 ul {
