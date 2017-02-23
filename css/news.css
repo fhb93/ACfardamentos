@@ -3,6 +3,7 @@
 	margin-bottom: 12%;
 }
 
+
 table {
 	border-spacing: 0.2em;
 	border-collapse: separate;
@@ -23,8 +24,6 @@ thead th {
 
 td img {
 	height: 30%;
-	
-	
 }
 
 td {
@@ -32,9 +31,9 @@ td {
 	text-align: center;
 }
 
-tr:nth-child(2n) {
-	background-color: #ccc;
-}
+/*tr:nth-child(2n)/* {*/
+	/*background-color: #ccc;*/
+/*}*/
 
 /*td:first-child {
 	font-style: italic;

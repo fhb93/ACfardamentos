@@ -1,7 +1,8 @@
 <html>
 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" type="text/css" href="css/styles">
-		<link rel="shortcut icon" type="image/png" href="img/favicon.png">
+		<link rel="icon" type="image/png" href="img/favicon.png">
 	</head>
 	<body>
 		<header>
