@@ -8,6 +8,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/news.css">
+		<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.svg">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>

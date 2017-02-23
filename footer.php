@@ -3,6 +3,10 @@
 	 	<!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.css"> -->
 	 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 	 	<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.svg">
+	 	<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.eot">
+	 	<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.woff">
+	 	<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.woff2">
+	 	<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.ttf">
 	</head>
 	<body>
 		<footer>
