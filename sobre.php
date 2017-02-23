@@ -38,4 +38,5 @@
 		include("footer.php");
 	?>
 	</body>
+	<script src="js/bootstrap.js"></script>
 </html>

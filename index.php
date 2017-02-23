@@ -24,7 +24,7 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12">
-					<div id="ul-nav-fardas-camisetas">
+					<div>
 						<?php
 							include("menu-bar.php");
 						?>
@@ -50,5 +50,6 @@
 				</div>
 			</div>
 		</div>
+		<script src="js/bootstrap.js"></script>
 	</body>
 </html>

@@ -1,5 +1,6 @@
 .container ul {
 	margin-top: 5%;
+	margin-left: 15%;
 }
 
 .container li ul {
@@ -30,6 +31,10 @@
 .container li a {
 	color: rgb(66, 189, 193);
 	text-decoration: none;
+}
+
+#titulo-colegios {
+	margin-left: 18%;
 }
 
 .h1Sobre{

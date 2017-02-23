@@ -11,15 +11,15 @@
 	<body>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-sm-1 col-md-1">
+				<div class="col-sm-6 col-md-1">
 				</div>
-				<div class="col-sm-11 col-md-11">
+				<div class="col-sm-6 col-md-11">
 					<h1 class="h1Sobre">Nossos produtos:</h1>
 					<h2 class="h2Sobre">Para mais informações e preços, contate-nos</h2>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
 					<div  id="text">
 						<div class="roupas">
 							<br>
@@ -45,4 +45,5 @@
 			</div>
 		</div>
 	</body>
+	<script src="js/bootstrap.js"></script>
 </html>
