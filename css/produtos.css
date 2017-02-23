@@ -45,8 +45,9 @@
 }
 
 
-img {
+.produto img {
 	float: right;
+	margin-right: 12.5%;
 	width: 25%;
 }
 
