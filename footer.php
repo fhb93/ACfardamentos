@@ -14,7 +14,7 @@
 					</li>
 					<li>
 						<span class="glyphicon glyphicon-map-marker" aria-hidden="false"></span>
-					Endereço: Alamenda Ana Elisa, 335 - Quadra 02 - Cidade 2000 - Fortaleza - Ceará - CEP: 60.190-110
+					Endereço: Alameda Ana Elisa, 335 - Quadra 02 - Cidade 2000 - Fortaleza - Ceará - CEP: 60.190-110
 					</li>
 				</div>
 				<div>	
