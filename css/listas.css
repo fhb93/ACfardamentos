@@ -1,22 +1,22 @@
-.container ul {
+.container2 ul {
 	margin-top: 5%;
 	margin-left: 15%;
 }
 
-.container li ul {
+.container2 li ul {
 	display: none;
 }
 
-.container li:hover ul {
+.container2 li:hover ul {
 	display: block;
 }
 
-.container ul li {
+.container2 ul li {
 	/*background-color: rgb(255, 129, 93);*/
 		/*background-color: rgb(255, 129, 93);*/
 }
 
-.container li {
+.container2 li {
 	list-style: square;
 	margin-left: 15%;
 	background-color: white;
@@ -28,7 +28,7 @@
 	padding: 5px 10px;
 }
 
-.container li a {
+.container2 li a {
 	color: rgb(66, 189, 193);
 	text-decoration: none;
 }

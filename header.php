@@ -17,7 +17,7 @@
 					<div class="row">
 						<div class="col-xs-6 col-xs-offset-3 col-sm-12 col-sm-offset-0">
 							<br>
-							<h1>Fardamento Escolar e Camisetas Promocionais</h1>
+							<h1 id="titulo-principal">Fardamento Escolar e Camisetas Promocionais</h1>
 							<br>
 						</div>
 					</div>
