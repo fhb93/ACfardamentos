@@ -24,5 +24,6 @@
 				</div>
 			</div>
 		</header>
+		<script src="js/bootstrap.js"></script>		
 	</body>
 </html>

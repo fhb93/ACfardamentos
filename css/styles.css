@@ -195,9 +195,13 @@ ul div {
 }
 
 @media (max-device-width : 500px) {
-	.h1Sobre, .h2Sobre { font-size: 12px; }
+	.h1Sobre, .h2Sobre { font-size: 12px;	text-shadow: none;  }
 	header img {
 		width: 50%;
+	}
+	.menu-bar {
+		margin-top: 0;
+		width: 20%;
 	}
 }
 
