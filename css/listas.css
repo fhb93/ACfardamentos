@@ -40,3 +40,7 @@
 .h1Sobre{
 	text-align: center;
 }
+
+@media screen and (max-device-width : 500px) {
+	.h1Sobre { font-size: 15pt; }
+}

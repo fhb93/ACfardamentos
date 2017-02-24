@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/news.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/styles.css" media="screen" />
+		<link rel="stylesheet" href="css/styles.css" media="screen">
 		<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.svg">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
@@ -23,7 +23,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<div>
 						<?php
 							include("menu-bar.php");
@@ -32,9 +32,7 @@
 				</div>
 			<!-- </div> -->
 				<div class="row">
-					<div class="col-sm-3">
-					</div>
-					<div class="col-sm-9">
+					<div class="col-sm-9 col-sm-offset-3">
 						<!-- <div class="container"> -->
 						<?php 
 							include("news.php");

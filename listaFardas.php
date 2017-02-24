@@ -4,10 +4,11 @@
 		<title>AC Fardamentos</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/news.css">
 		<link rel="stylesheet" href="css/listas.css">
+		<link rel="stylesheet" href="css/styles.css" media="screen">
+		<link rel="stylesheet" href="css/styles.css">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>
@@ -20,9 +21,7 @@
 			?>
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-2">
-					</div>
-					<div class="col-sm-10">
+					<div class="col-xs-10 col-xs-offset-1">
 						<div id="titulo-colegios">
 							<h1 class="h1Sobre">Lista de Fardas por Colégio</h1>
 						</div>
