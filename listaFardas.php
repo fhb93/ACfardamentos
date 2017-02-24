@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/news.css">
 		<link rel="stylesheet" href="css/listas.css">
-		<link rel="stylesheet" href="css/styles.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="css/styles.css" media="(max-device-width : 500px)">
 		<link rel="stylesheet" href="css/styles.css">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	

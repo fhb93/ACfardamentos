@@ -37,6 +37,7 @@ header h1 {
 	font-family: 'Lobster', cursive;
 	color: white;
 	padding-left: 10%;
+	display: block;
 }
 
 body {
