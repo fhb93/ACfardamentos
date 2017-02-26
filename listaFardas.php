@@ -5,7 +5,6 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="js/bootstrap.js">
 		<link rel="stylesheet" href="css/news.css">
 		<link rel="stylesheet" href="css/listas.css">
 		<link rel="stylesheet" type="text/css" href="css/styles.css" media="(max-device-width : 500px)">
