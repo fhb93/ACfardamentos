@@ -9,6 +9,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/news.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="js/bootstrap.js">
 		<link rel="stylesheet" href="css/styles.css" media="screen">
 		<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.svg">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->

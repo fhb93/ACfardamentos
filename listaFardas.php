@@ -5,6 +5,7 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="js/bootstrap.js">
 		<link rel="stylesheet" href="css/news.css">
 		<link rel="stylesheet" href="css/listas.css">
 		<link rel="stylesheet" type="text/css" href="css/styles.css" media="(max-device-width : 500px)">
@@ -19,7 +20,7 @@
 
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-10">
+					<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
 					<?php 
 						include("menu-bar.php");
 					?>
