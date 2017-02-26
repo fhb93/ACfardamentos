@@ -1,3 +1,3 @@
 git add .
-git commit -m 'adição do bootstrap.js'
+git commit -m '$0'
 git push
