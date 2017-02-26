@@ -4,7 +4,8 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/styles.css">
-		<link rel="stylesheet" href="css/bootstrap.css">		
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<meta name="viewport" content="width=device-width">		
 		<link rel="stylesheet" type="text/css" href="css/news.css">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
