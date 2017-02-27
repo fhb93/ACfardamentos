@@ -2,6 +2,7 @@
 <html lang="pt-br">
 	<head>	
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
@@ -28,26 +29,43 @@
 						include("menu-bar.php");
 					?>
 				</div>
-				<div class="col-xs-12 col-md-10 col-md-offset-3">
-
+				<div class="col-xs-12 col-xs-offset-0 col-md-10 col-md-offset-3">
 					<div class="roupas">
 						<br>
 						<!-- <div class="table-responsive"> -->
 							<table>
-								<thead>
-									<tr>
-										<th class="col-xs-4">Fardas Escolares</th>
-										<th class="col-xs-4">Camisetas Promocionais</th>
-										<th class="col-xs-4">Roupas Profissionais</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td class="col-xs-4"><a href="listaFardas.php"><img src="img/produtos/fariasbrito1.jpg" alt="Foto de Camiseta Branca"><legend>Fardas de todos<br>os tamanhos e tecidos</legend></a></td>
-										<td class="col-xs-4"><img src="img/produtos/foto4.jpg" alt="Foto de Camiseta Branca"><legend>Camisetas especiais,<br>temas diversos</legend></td>
-										<td class="col-xs-4"><img src="img/produtos/foto2.jpg" alt="Foto de fardamento profissional"><legend>Fardamentos profissionais<br>para empresas</legend></td>
-									</tr>
-								</tbody>
+								<div class="row">
+									<thead>
+										<div class="col-xs-12 col-md-12">
+											<tr>
+												<div class="col-xs-4 col-md-4">
+													<th>Fardas Escolares</th>
+												</div>
+												<div class="col-xs-4 col-md-4">
+													<th>Camisetas Promocionais</th>
+												</div>
+												<div class="col-xs-4 col-md-4">
+													<th>Roupas Profissionais</th>
+												</div>
+											</tr>
+										</div>
+									</thead>
+								</div>
+								<div class="row">
+									<tbody>
+										<tr>
+											<div class="col-xs-4 col-md-4">
+												<td><a href="listaFardas.php"><img src="img/produtos/fariasbrito1.jpg" alt="Foto de Camiseta Branca"><legend>Fardas de todos<br>os tamanhos e tecidos</legend></a></td>
+											</div>
+											<div class="col-xs-4 col-md-4">
+												<td><img src="img/produtos/foto4.jpg" alt="Foto de Camiseta Branca"><legend>Camisetas especiais,<br>temas diversos</legend></td>
+											</div>
+											<div class="col-xs-4 col-md-4">
+												<td><img src="img/produtos/foto2.jpg" alt="Foto de fardamento profissional"><legend>Fardamentos profissionais<br>para empresas</legend></td>
+											</div>
+										</tr>
+									</tbody>
+								</div>
 							</table>
 						<!-- </div> -->
 					</div>
