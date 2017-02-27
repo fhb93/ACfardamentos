@@ -8,9 +8,9 @@
 		<script src="js/bootstrap.js"></script>
 	</head>
 	<body>
-		<header>
-			<div class="container-fluid">
-				<div class="row">
+		<div class="container-fluid">
+			<div class="row">
+				<header>
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<img src="img/logo-AC-Big.png" alt="Logo da AC Fardamentos">
 					</div>
@@ -22,8 +22,8 @@
 							<br>
 						</div>
 					</div>
-				</div>
+				</header>
 			</div>
-		</header>
+		</div>
 	</body>
 </html>
