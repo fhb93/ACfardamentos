@@ -15,38 +15,38 @@
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>
-		<div class="container-fluid">
+		<!-- <div class="container-fluid">
 			<div class="row">
-				<div class="col-sm-12 col-md-12">
+				<div class="col-sm-12 col-md-12"> -->
 					<?php
 						include("header.php");
 					?>
-				</div>
+			<!-- 	</div>
 			</div>
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<div>
+					<div> -->
 						<?php
 							include("menu-bar.php");
 						?>
-					</div>
-				</div>
+				<!-- 	</div>
+				</div> -->
 			<!-- </div> -->
-				<div class="col-sm-9 col-sm-offset-3">
+				<!-- <div class="col-sm-9 col-sm-offset-3"> -->
 					<!-- <div class="container"> -->
 					<?php 
 						include("news.php");
 					?>	
-				</div>
+				<!-- </div>
 			
 			</div>
 			<div class="row">
-				<div class="col-sm-12">
+				<div class="col-sm-12"> -->
 					<?php 
 						include("footer.php");
 					?>	
-				</div>
+				<!-- </div>
 			</div>
-		</div>
+		</div> -->
 	</body>
 </html>
