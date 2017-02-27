@@ -12,21 +12,20 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-12 col-md-12">
-					<div class="row">
 						<header>
 							<div class="col-xs-6 col-sm-6 col-md-4">
 								<img src="img/logo-AC-Big.png" alt="Logo da AC Fardamentos">
 							</div>
 						
 							<div class="row">
-								<div class="col-xs-6 col-xs-offset-3 col-sm-12 col-sm-offset-0 col-md-8 col-md-offset-3">
+								<div class="col-xs-6 col-xs-offset-5 col-sm-12 col-sm-offset-0 col-md-8 col-md-offset-3">
 									<br>
 									<h1 id="titulo-principal">Fardamento Escolar e Camisetas Promocionais</h1>
 									<br>
 								</div>
 							</div>
 						</header>
-					</div>
+
 				</div>
 			</div>
 		</div>

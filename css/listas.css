@@ -1,47 +1,15 @@
-.container2 ul {
-	margin-top: 5%;
-	margin-left: 15%;
-}
-
-.container2 li ul {
-	display: none;
-}
-
-.container2 li:hover ul {
-	display: block;
-}
-
-.container2 ul li {
-	/*background-color: rgb(255, 129, 93);*/
-		/*background-color: rgb(255, 129, 93);*/
-}
-
-.container2 li {
-	list-style: square;
-	margin-left: 15%;
-	background-color: white;
-	margin-bottom: 1px;
-	margin-top: 1px;
-	font-size: 18pt;
-	font-weight: bold;
-	text-shadow: 1px 1px grey;
-	padding: 5px 10px;
-}
-
-.container2 li a {
-	color: rgb(66, 189, 193);
-	text-decoration: none;
-}
-
-.lista-colegios {
+#lista-colegios {
 	list-style: square;	
 	color: rgb(66, 189, 193);
 	text-align: left;
 	background-color: white;
+	margin-left: 15%;
 	margin-top: 5%;
+	margin-bottom: 1px;
 	font-size: 22pt;
 	font-weight: bold;
 	text-shadow: 1px 1px grey;
+	padding: 5px 10px;
 }
 
 .h1Sobre{

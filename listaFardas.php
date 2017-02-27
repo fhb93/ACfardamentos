@@ -7,9 +7,9 @@
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/news.css">
-		<link rel="stylesheet" href="css/listas.css">
 		<!-- <link rel="stylesheet" type="text/css" href="css/styles.css" media="(max-device-width : 500px)"> -->
 		<link rel="stylesheet" href="css/styles.css">
+		<link rel="stylesheet" href="css/listas.css">
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 		<script src="js/bootstrap.js"></script>
 	</head>	
@@ -32,7 +32,7 @@
 						<h1 class="h1Sobre">Lista de Fardas por Colégio</h1>
 					<!-- </div> -->
 					<nav>
-						<ul class="lista-colegios">
+						<ul id="lista-colegios">
 							<li><a href="ari.php"">Farda Escolar Ari de Sá</a></li>
 							<li><a href="farias.php">Farda Escolar Farias Brito</a></li>
 							<li><a href="kennedy.php">Farda Escolar Kennedy</a></li>
