@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<meta name="viewport" content="width=device-width">		
 		<link rel="stylesheet" type="text/css" href="css/news.css">
+		<script src="js/bootstrap.js"></script>
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>
@@ -39,7 +40,7 @@
 									<tr>
 										<td class="col-xs-4"><a href="listaFardas.php"><img src="img/produtos/fariasbrito1.jpg" alt="Foto de Camiseta Branca"><legend>Fardas de todos<br>os tamanhos e tecidos</legend></a></td>
 										<td class="col-xs-4"><img src="img/produtos/foto4.jpg" alt="Foto de Camiseta Branca"><legend>Camisetas especiais,<br>temas diversos</legend></td>
-										<td class="col-xs-4"><img src="img/produtos/foto2.jpg" alt="Foto de Camiseta Branca"><legend>Fardamentos profissionais<br>para empresas</legend></td>
+										<td class="col-xs-4"><img src="img/produtos/foto2.jpg" alt="Foto de fardamento profissional"><legend>Fardamentos profissionais<br>para empresas</legend></td>
 									</tr>
 								</tbody>
 							</table>
@@ -49,5 +50,4 @@
 			</div>
 		</div>
 	</body>
-	<script src="js/bootstrap.js"></script>
 </html>

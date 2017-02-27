@@ -11,6 +11,7 @@
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/styles.css" media="screen">
 		<link rel="stylesheet" href="fonts/glyphicons-halflings-regular.svg">
+		<script src="js/bootstrap.js"></script>
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>
@@ -47,6 +48,5 @@
 				</div>
 			</div>
 		</div>
-		<script src="js/bootstrap.js"></script>
 	</body>
 </html>

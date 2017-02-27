@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
-		<title>AC Fardamentos</title>
+		<title>AC Fardamentos - Farda Escolar Shalom</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="js/bootstrap.js">
 		<link rel="stylesheet" href="css/produtos.css">
+		<script src="js/bootstrap.js"></script>
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
 	<body>

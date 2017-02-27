@@ -16,7 +16,7 @@
 	</head>
 	<body>
 		<footer>
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<ul id="ul-footer">
 						<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
@@ -50,5 +50,4 @@
 			</div>
 		</footer>
 	</body>
-	<script src="js/bootstrap.js"></script>
 </html>

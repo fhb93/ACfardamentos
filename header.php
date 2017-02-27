@@ -5,6 +5,7 @@
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="css/styles.css" media="(max-device-width : 500px)">
 		<link rel="icon" type="image/png" href="img/favicon.png">
+		<script src="js/bootstrap.js"></script>
 	</head>
 	<body>
 		<header>
@@ -24,6 +25,5 @@
 				</div>
 			</div>
 		</header>
-		<script src="js/bootstrap.js"></script>		
 	</body>
 </html>

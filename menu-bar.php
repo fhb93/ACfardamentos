@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<meta name="viewport" content="width=device-width">
+		<script src="js/bootstrap.js"></script>
 		<!-- <link rel="stylesheet" type="text/css" href="css/news.css"> -->
 		<!-- <link href="https://fonts.googleapis.com/css?family=Sahitya" rel="stylesheet">	 -->
 	</head>	
