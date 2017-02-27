@@ -20,38 +20,34 @@
 				<div class="col-xs-12 col-md-12">
 					<div class="row">
 						<footer>
-							<div class="container-fluid">
-								<div class="row">
-									<ul id="ul-footer">
-										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-											<li>
-												<span class="glyphicon glyphicon-envelope" aria-hidden="false"></span>
-											E-mail:<br>acfardamentos@yahoo.com.br
-											</li>
-											<li>
-												<span class="glyphicon glyphicon-map-marker" aria-hidden="false"></span>
-											Endereço: Alameda Ana Elisa, 335 - Quadra 02 - Cidade 2000 - Fortaleza - Ceará - CEP: 60.190-110
-											</li>
-										</div>
-									</ul>
-									<ul id="ul-footer">
-										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">	
-											<li><span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> Telefone 1:<br>
-												(85) 3249-0668
-											</li>
-											<li> <span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> Telefone 2:<br>
-												(85) 3032-0654
-											</li>
-										</div>
-									</ul>
-									<!-- <br><br><br><br><br> -->
-								</div>
-								<div class="row">	
-									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-										<h4>Desenvolvido por: Felipe Holanda Bezerra & Pedro Victor Cunha Bezerra</h4>
-									</div>
+							<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+								<ul>
+									<li>
+										<span class="glyphicon glyphicon-envelope" aria-hidden="false"></span>
+									E-mail:<br>acfardamentos@yahoo.com.br
+									</li>
+									<li>
+										<span class="glyphicon glyphicon-map-marker" aria-hidden="false"></span>
+									Endereço: Alameda Ana Elisa, 335 - Quadra 02 - Cidade 2000 - Fortaleza - Ceará - CEP: 60.190-110
+									</li>
+								</ul>
+							</div>
+							<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">	
+								<ul>
+									<li><span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> Telefone 1:<br>
+										(85) 3249-0668
+									</li>
+									<li><span class="glyphicon glyphicon-phone-alt" aria-hidden="false"></span> Telefone 2:<br>
+										(85) 3032-0654
+									</li>
+								</ul>
+							</div>
+							<div class="row">	
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+									<h4>Desenvolvido por: Felipe Holanda Bezerra & Pedro Victor Cunha Bezerra</h4>
 								</div>
 							</div>
+								<!-- </div> -->
 						</footer>
 					</div>
 				</div>

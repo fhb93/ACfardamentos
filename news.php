@@ -13,17 +13,22 @@
 	<body>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-xs-6 col-xs-offset-4 col-sm-12 col-sm-offset-0 col-md-12 col-md-offset-0 col-lg-12 col-lg-offset-0">
-					<div class="col-xs-6">
-						<h1 class="h1Sobre">Nossos produtos:</h1>
-					</div>
-					<div class="col-xs-6">
-						<h2 class="h2Sobre">Para mais informações e preços, entre em contato</h2>
-					</div>
+				<!-- <div class="col-xs-6 col-xs-offset-4 col-sm-12 col-sm-offset-0 col-md-12 col-md-offset-0 col-lg-12 col-lg-offset-0"> -->
+				<div class="col-xs-6 col-xs-offset-1">
+					<h1 class="nossos-produtos">Nossos produtos:</h1>
 				</div>
+				<div class="col-xs-5">
+					<h2 class="h2Sobre">Para mais informações e preços, entre em contato</h2>
+				</div>
+				<!-- </div> -->
 			</div>
 			<div class="row">
-				<div>
+				<div class="col-xs-4">
+					<?php
+						include("menu-bar.php");
+					?>
+				</div>
+				<div class="col-xs-12 col-md-10 col-md-offset-3">
 
 					<div class="roupas">
 						<br>
