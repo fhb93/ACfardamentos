@@ -1,7 +1,3 @@
-/** {
-    box-sizing: border-box;
-}*/
-
 header {	
 	position: relative;
 	text-align: left;
@@ -16,7 +12,7 @@ header {
 	/*border-top: 0;*/
 	/*margin-top: 0;*/
 	/*padding-top: 0;*/
-	width: 100%;
+	width: auto;
 	height: 20%;
 	max-height: 20%;
 	display: inline;
@@ -126,7 +122,7 @@ footer {
 	padding: 20px 20px;
 	/*margin-top: 8%;*/
 	height: 20%;
-	width: 100%;
+	width: auto;
 	margin-bottom: 0;
 }
 
