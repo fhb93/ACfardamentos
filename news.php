@@ -35,7 +35,7 @@
 					<div class="roupas">
 						<br>
 						<!-- <div class="table-responsive"> -->
-						<div style="overflow-x:auto;">
+						<div style="overflow-x: auto;">
 							<table>
 								<thead>
 									<tr>
@@ -46,7 +46,6 @@
 								</thead>
 								<tbody>
 									<tr>
-
 										<td><a href="listaFardas.php"><img src="img/produtos/fariasbrito1.jpg" alt="Foto de Camiseta Branca"><legend>Fardas de todos<br>os tamanhos e tecidos</legend></a></td>
 										<td><img src="img/produtos/foto4.jpg" alt="Foto de Camiseta Branca"><legend>Camisetas especiais,<br>temas diversos</legend></td>
 										<td><img src="img/produtos/foto2.jpg" alt="Foto de fardamento profissional"><legend>Fardamentos profissionais<br>para empresas</legend></td>
