@@ -2,10 +2,10 @@
 	<head>
 		<meta name="viewport" content="width=device-width">		
 		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<script src="js/bootstrap.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="css/styles.css" media="(max-device-width : 500px)">
 		<link rel="icon" type="image/png" href="img/favicon.png">
-		<script src="js/bootstrap.js"></script>
 	</head>
 	<body>
 		<div class="container-fluid">
