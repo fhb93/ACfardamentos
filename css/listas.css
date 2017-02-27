@@ -33,8 +33,15 @@
 	text-decoration: none;
 }
 
-#titulo-colegios {
-	margin-left: 18%;
+.lista-colegios {
+	list-style: square;	
+	color: rgb(66, 189, 193);
+	text-align: left;
+	background-color: white;
+	margin-top: 5%;
+	font-size: 22pt;
+	font-weight: bold;
+	text-shadow: 1px 1px grey;
 }
 
 .h1Sobre{

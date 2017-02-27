@@ -151,8 +151,8 @@ ul div {
 	text-align: justify;
 	display: inline-block;
 	font-weight: bold;
-	margin-left: 25%;
-	margin-right: 3%;
+	/*margin-left: 25%;*/
+	margin-right: 10%;
 } 
 
 .roupas {
@@ -193,7 +193,7 @@ ul div {
 	/*text-align: center;*/
   	font-size: 48px;
   	color: #eeeeee;
-  /*color: inherit;*/
+  /*or: inherit;*/
   /*background-color: #eeeeee;*/
 }
 
